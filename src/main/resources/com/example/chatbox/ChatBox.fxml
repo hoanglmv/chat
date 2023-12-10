@@ -27,7 +27,7 @@
          <children>
             <ImageView fitHeight="60.0" fitWidth="58.0" pickOnBounds="true" GridPane.columnIndex="1">
                <image>
-                  <Image url="@call_button.png" />
+                  <Image url="@not_vid_button.png" />
                </image>
             </ImageView>
             <ImageView fitHeight="122.0" fitWidth="63.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2">
@@ -63,7 +63,7 @@
                <graphic>
                   <ImageView fitHeight="40.0" fitWidth="33.0" pickOnBounds="true">
                      <image>
-                        <Image url="@send.png" />
+                        <Image url="@send-message.png" />
                      </image>
                   </ImageView>
                </graphic>
